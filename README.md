@@ -1,8 +1,8 @@
 # php-shop-demo
-an easy customizable php shop
+**an easy customizable php shop**
 
-php-shop-demo allows you to create, edit, delete products as admin.  
-Additionally it allows you as customer to put certain items in your cart, add more of them or remove them. 
+php-shop-demo allows you to **create**, **edit**, **delete products** as admin.  
+Additionally it allows you as customer to put certain items in your **cart**, add more of them or remove them. 
 
 It provides a register and login page, as well as a secret admin page.  
 
