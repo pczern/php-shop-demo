@@ -1,8 +1,8 @@
 # php-shop-demo
-an easy customizable php shop
+**an easy customizable php shop**
 
-php-shop-demo allows you to create, edit, delete products as admin.  
-Additionally it allows you as customer to put certain items in your cart, add more of them or remove them. 
+php-shop-demo allows you to **create**, **edit**, **delete products** as admin.  
+Additionally it allows you as customer to put certain items in your **cart**, add more of them or remove them. 
 
 It provides a register and login page, as well as a secret admin page.  
 
@@ -28,7 +28,7 @@ $password = "root"; // root on MAMP
 * /product.php?id=1 - product detail page
 * /cart.php - shows all your added products
 * /buy.php - buys everything in the cart
-* /logout.php - logs you out
+* /logout.php - logs you out  
 
 Requires login as admin under /admin (name: admin, pw: test)
 * /create-product.php - creates a product
