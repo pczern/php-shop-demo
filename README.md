@@ -6,6 +6,10 @@ Additionally it allows you as customer to put certain items in your **cart**, ad
 
 It provides a register and login page, as well as a secret admin page.  
 
+## Example Screenshots
+[homepage](https://github.com/pczern/php-shop-demo/blob/master/example1.png)
+[product detail page](https://github.com/pczern/php-shop-demo/blob/master/example2.png)
+
 ## Important
 Change MySQL DB configuration to fit your setup, in db.php  
 Settings are currently configured like:
