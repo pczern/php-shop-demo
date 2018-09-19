@@ -5,7 +5,7 @@
 <head>
     <title>Online Shop</title>
     <meta charset="utf-8" />
-    <meta name="author" content="Philipp Czernitzki" />
+    <meta name="author" content="Philipp" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <link href="./styles.css" type="text/css" rel="stylesheet">
 </head>
