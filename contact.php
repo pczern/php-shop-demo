@@ -9,7 +9,7 @@ include "header.php";
 <p>
   <ul>
     <li><i class="fas fa-fw fa-user"></i>Philipp</li>
-    <li><i class="fas fa-fw fa-envelope"></i>me@philippczernitzki.me</li>
+    <li><i class="fas fa-fw fa-envelope"></i>an email</li>
     <li><i class="fas fa-fw fa-address-card"></i>Unbekannt</li>
     <li><i class="fas fa-fw fa-globe"></i>Deutschland</li>
   </ul>
