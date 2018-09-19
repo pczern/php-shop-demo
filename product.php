@@ -63,7 +63,7 @@ include "header.php";
             <img src="<?php printImagePath($item->image);  ?>" />
             <div class="details">
             <h1><?php echo $item->name; ?></h1>
-            <p><strong>Beschreibung</strong><br />$<?php echo $item->description; ?></p>
+            <p><strong>Beschreibung</strong><br /><?php echo $item->description; ?></p>
             <p><strong>Preis</strong><br /><?php echo $item->price; ?> €</p>
             <time><?php echo $item->time; ?></time>
           </div>
