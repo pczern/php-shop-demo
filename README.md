@@ -28,7 +28,7 @@ $password = "root"; // root on MAMP
 * /product.php?id=1 - product detail page
 * /cart.php - shows all your added products
 * /buy.php - buys everything in the cart
-* /logout.php - logs you out
+* /logout.php - logs you out  
 
 Requires login as admin under /admin (name: admin, pw: test)
 * /create-product.php - creates a product
