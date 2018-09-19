@@ -17,7 +17,7 @@ include "header.php";
       if ($_SESSION['isLoggedIn']) {
         ?>
         <p>Nutzer erfolgreich erstellt</p>
-        <a href="index.html">Klicke hier</a>
+        <a href="./index.php">Klicke hier</a>
         <?php
       }
       else {
