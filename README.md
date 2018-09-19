@@ -7,8 +7,8 @@ Additionally it allows you as customer to put certain items in your cart, add mo
 It provides a register and login page, as well as a secret admin page.  
 
 ## Important
-Change MySQL DB configuration to fit your setup, in db.php
-Settings are configured to:
+Change MySQL DB configuration to fit your setup, in db.php  
+Settings are currently configured like:
 ```javascript
 $servername = "localhost:8889";
 $username = "root";
