@@ -1,4 +1,4 @@
-#php-shop-demo
+# php-shop-demo
 an easy customizable php shop
 
 php-shop-demo allows you to create, edit, delete products as admin.  
